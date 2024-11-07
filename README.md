@@ -3,3 +3,5 @@
  Kelas 5A Reg Banjarbaru
  
  ![alt text](https://github.com/Salwaazkiya/AplikasiKonversiSuhu/blob/main/Screenshot%20Hasil/Screenshot%201.png?raw=true)
+ ![alt text](https://github.com/Salwaazkiya/AplikasiKonversiSuhu/blob/main/Screenshot%20Hasil/Screenshot%202.png?raw=true)
+ ![alt text](https://github.com/Salwaazkiya/AplikasiKonversiSuhu/blob/main/Screenshot%20Hasil/Screenshot%203.png?raw=true)
